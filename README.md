@@ -3,10 +3,10 @@ Determined how cutting speed, feed rate, and depth of cut parameters affect the 
 
 ![Shows the 3D visualization of dataset and redirects the efficient zone shown by dark red
 scatter points for which the range is 360-740 rpm for spindle speed,50-200 mm/min for feed rate
-and 0.2-0.7 mm for depth of cut](https://github.com/kunalbro369/HSS-Tool-Life-Prediction-Using-XGBoost-ML-Project/assets/96117635/ef92f429-67c6-4e99-925a-4b14d66e93fe)
+and 0.2-0.7 mm for depth of cut](file:///C:/Users/Kunal%20Kulkarni/Desktop/pic1.png)
 
-![Dataset- Preprocessing](https://github.com/kunalbro369/HSS-Tool-Life-Prediction-Using-XGBoost-ML-Project/assets/96117635/c186d804-80ea-42c4-b683-75c79bb5e938)
+![Dataset- Preprocessing](file:///C:/Users/Kunal%20Kulkarni/Desktop/pic2.png)
 
-![Actual vs Predicted](https://github.com/kunalbro369/HSS-Tool-Life-Prediction-Using-XGBoost-ML-Project/assets/96117635/b71b103e-0a31-47ff-be4f-78bb998a63bf)
+![Actual vs Predicted](file:///C:/Users/Kunal%20Kulkarni/Desktop/pic3.png)
 
 
